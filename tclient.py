@@ -1,10 +1,6 @@
 #!/usr/bin/python3
 
 import socket
-import re
-import os
-
-CRLF = "\r\n\r\n"
 
 # export TABLE_ID=100
 # export MARK=1
